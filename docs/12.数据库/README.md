@@ -58,7 +58,7 @@ hidden: true
 ##### 流量调度
 
 - [流量控制](https://dunwu.github.io/design/pages/282676/)
-- [深入浅出负载均衡](https://dunwu.github.io/design/pages/b7ca44/)
+- [负载均衡](https://dunwu.github.io/blog/pages/98a1c1/)
 - [服务路由](https://dunwu.github.io/design/pages/d04ece/)
 - [分布式会话基本原理](https://dunwu.github.io/design/pages/3e66c2/)
 
